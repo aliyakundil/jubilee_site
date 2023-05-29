@@ -135,3 +135,5 @@ class Osago(models.Model):
 
     def __str__(self):
         return f'{self.series} {self.number}'
+
+#xercvtbyuinomp,[.]/'mgnvb rejlgkl /db '
